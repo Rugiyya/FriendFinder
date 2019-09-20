@@ -20,3 +20,6 @@ Super Friend Finder is a web-based compatability app that takes in user input (b
 * Node Pacakages installed:
    * Express
    * Path
+## Link to Heroku
+
+[Click here](https://safe-gorge-70715.herokuapp.com)
