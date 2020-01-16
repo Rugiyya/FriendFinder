@@ -1,8 +1,19 @@
 # FriendFinder
 
+
 ## About the App
 
-Super Friend Finder is a web-based compatability app that takes in user input (based on survey) and then compares the user with other users or friends to find the best match.
+Friend Finder is a web-based compatability app that takes in user input (based on survey) and then compares the user with other users or friends to find the best match.
+
+## Views
+
+Login page:
+
+![alt text](/images/imagest.png)
+
+Survay page:
+
+![alt text](/images/imagend.png)
 
 ## Technologies Used
 * HTML
